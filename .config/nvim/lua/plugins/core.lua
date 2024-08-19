@@ -1,0 +1,1 @@
+/home/piotr-kaminski/.config/nvim/lua/plugins/core.lua
