@@ -1,1 +1,3 @@
-/home/piotr-kaminski/.bashrc.d/aliases.sh
+alias ll='ls -la'
+alias la='ls -a'
+alias cxx='clang++'
