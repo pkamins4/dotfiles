@@ -4,5 +4,5 @@ Collection of my dotfiles.
 Tools that I use:
 * neovim
 * tmux
-* alacritty
+* alacritty and kitty
 * bash
